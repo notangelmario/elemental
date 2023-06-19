@@ -1,0 +1,5 @@
+{
+	"editor.formatOnSave": false,
+	"mesonbuild.configureOnOpen": true,
+	"C_Cpp.default.compileCommands": "build/vscode_compile_commands.json"
+}
